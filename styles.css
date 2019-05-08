@@ -16,6 +16,11 @@ body {
   background: #ddd;
 }
 
+.content img {
+  width: 500px;
+  height: 500px;
+}
+
 #start-btn {
   font-size: 36px;
   padding: 20px 40px 20px 80px ;

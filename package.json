@@ -1,0 +1,17 @@
+{
+  "name": "thanos-snap",
+  "version": "1.0.0",
+  "description": "Thanos snap experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "chance": "^1.0.18",
+    "html2canvas": "^1.0.0-rc.1",
+    "jquery": "^3.4.1"
+  }
+}
